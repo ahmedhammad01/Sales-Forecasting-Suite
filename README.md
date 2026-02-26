@@ -2,7 +2,7 @@
 
 > *An end-to-end data analytics project — from raw CSV files to a predictive, AI-powered Business Intelligence dashboard.*
 
-[![Live Dashboard](https://img.shields.io/badge/Power%20BI-View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/reportEmbed?reportId=ed70b521-511a-4a0e-b843-2d82f143b423&autoAuth=true&ctid=6904ab2d-9af4-43e9-989f-653855a2872a)
+[![Live Dashboard](https://img.shields.io/badge/Power%20BI-View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiY2YwMGI2MGEtZDNiNi00NzVlLTkwNzgtNTVlNGQ1MGUxZDQyIiwidCI6IjY5MDRhYjJkLTlhZjQtNDNlOS05ODlmLTY1Mzg1NWEyODcyYSIsImMiOjEwfQ%3D%3D)
 
 ![Executive Overview](dashboard/Dashboard%20Page%201.png)
 ![AI Forecasting](dashboard/Dashboard%20Page%202.png)
