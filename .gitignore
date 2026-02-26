@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.log
+.env
+.vscode/
+*.pyc
+node_modules/
+prophetforecast/dist/
+prophetforecast/.tmp/
+# Power BI temporary backups
+*.pbix.backup
+*.pbix_backup
+
+# Internal notes
+discovery_report.txt
+FINAL_PROJECT_REPORT.md
+
+# Power BI Dashboards
+*.pbix
